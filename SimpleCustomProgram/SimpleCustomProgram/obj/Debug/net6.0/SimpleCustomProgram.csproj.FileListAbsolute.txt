@@ -1,0 +1,15 @@
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.csproj.AssemblyReference.cache
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.AssemblyInfoInputs.cache
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.AssemblyInfo.cs
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\bin\Debug\net6.0\SimpleCustomProgram.exe
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\bin\Debug\net6.0\SimpleCustomProgram.deps.json
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\bin\Debug\net6.0\SimpleCustomProgram.runtimeconfig.json
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\bin\Debug\net6.0\SimpleCustomProgram.dll
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\bin\Debug\net6.0\SimpleCustomProgram.pdb
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.dll
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\refint\SimpleCustomProgram.dll
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.pdb
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\SimpleCustomProgram.genruntimeconfig.cache
+C:\Users\werno\Desktop\SimpleCustomProgram\SimpleCustomProgram\obj\Debug\net6.0\ref\SimpleCustomProgram.dll
